@@ -23,10 +23,9 @@ The "Technical Analysis Dashboard for Multiple Stocks" is a sophisticated tool d
 ### Setup Instructions
 
 1. **Clone the repository**:
-   ```bash
-  git clone https://github.com/mansia1907/Technical-Analysis-Dashboard-D3.git
-  cd Technical-Analysis-Dashboard-D3
-  ```
+   git clone https://github.com/mansia1907/Technical-Analysis-Dashboard-D3.git
+cd Technical-Analysis-Dashboard-D3
+
 
 3. **Run the index.html file**:
    Open index.html with the live server
